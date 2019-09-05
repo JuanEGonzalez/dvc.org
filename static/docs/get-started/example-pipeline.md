@@ -41,7 +41,7 @@ click `Save link as`(Chrome) or `Save object as`(Firefox)).
 $ mkdir example && cd example
 $ git init
 $ wget https://code.dvc.org/tutorial/nlp/pipeline.zip
-$ unzip pipeline.zip -d code
+$ unzip pipeline.zip
 $ rm -f pipeline.zip
 $ git add code/
 $ git commit -m "download and initialize code"
